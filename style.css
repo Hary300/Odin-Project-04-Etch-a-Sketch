@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 550px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.square {
+  cursor: pointer;
+}
+
+.square:hover {
+  background-color: greenyellow;
+}
+
+.clicked {
+  background-color: greenyellow;
+}
+
+button {
+  padding: 0 10px;
+}

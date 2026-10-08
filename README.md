@@ -6,7 +6,7 @@ A responsive and interactive **Etch-a-Sketch (Browser Drawing Pad)** built using
 
 ## 🚀 Live Demo
 
-👉 [Lihat Live Demo](https://your-username.github.io/your-repo-name/)
+👉 [Lihat Live Demo](https://hary300.github.io/Odin-Project-04-Etch-a-Sketch/)
 
 ---
 
